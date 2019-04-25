@@ -1,0 +1,7 @@
+!修改相应的键盘映射
+!
+!把alt_l键换为super_l键
+keycode 64 = Super_L
+
+!把super_l键换为alt_l键
+keycode 133 = Alt_L Meta_L Alt_L Meta_L
