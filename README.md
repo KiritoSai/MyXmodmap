@@ -9,3 +9,4 @@ xmodmap ~/.Xmodmap
 if [ -f ~/.Xmodmap ]; then xmodmap ~/.Xmodmap; fi
 ```
 
+![详细的方法](https://www.cnblogs.com/yinheyi/p/10146900.html)
